@@ -22,8 +22,6 @@ I used HTML, CSS. I wanted to write javascript to add to the project but since I
 * [AWS tutorials](https://www.amazon.com/b?ie=UTF8&node=14297978011&ref=aloc_sea_go_129880972538_kwd-400216996285_v4)
 
 # Future Work
-
-{Make a list of things that you need to fix, improve, and add in the future.}
 * Fix pushing issue
 * Add programed objects to JS file
 * Link npm to video list
