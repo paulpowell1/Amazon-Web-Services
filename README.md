@@ -3,7 +3,7 @@
 This is my attempt at AWS (Amazon-Web-Services). I wanted to learn and understand what is was all about and had a challenging but fun time with the service.
 I followed a tutorial online and tried to implement a Book Store that the admin could add books or change information, then have a customer who could view as a guest and purchase as a member. I wanted to dip my toe in AWS and found out it is much more in depth that I originally thought it would be. Coding can be difficult as is but Web devolpment is a whole different beast entirly. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/g9E6oVse9Pg)
 
 # Web Pages
 
